@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ [nice to meet you ](https://guides.github.com/features/mastering-markdown/).
+ [nice to meet you ](https://www.baidu.com)
 
 ### Jekyll Themes
 
